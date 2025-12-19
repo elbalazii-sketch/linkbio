@@ -2,7 +2,7 @@
   "buildCommand": "pnpm build",
   "installCommand": "pnpm install",
   "outputDirectory": "build",
-  "framework": "other",
+
 
   "env": {
     "NODE_ENV": "production"
