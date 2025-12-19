@@ -3,7 +3,7 @@
   "installCommand": "pnpm install",
   "outputDirectory": "build",
   "framework": "other",
-  "nodeVersion": "20.x",
+
   "env": {
     "NODE_ENV": "production"
   }
